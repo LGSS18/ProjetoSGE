@@ -1,0 +1,1324 @@
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\MySql.Data.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltOrcamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v3\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltOrcamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\Projeto SGE Testes - v4\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\Guilh\source\repos\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Aluno\Desktop\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamentos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v7\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamentos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\v9\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\Guilh\source\repos\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v11\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\itextsharp.dll
+C:\Users\onepi\Desktop\Versoes SGE\v13\Projeto SGE Testes\bin\Debug\itextsharp.xml
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\itextsharp.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\itextsharp.xml
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v14\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\itextsharp.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\itextsharp.xml
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Desktop\v16\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Correios.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\itextsharp.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Google.Protobuf.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\ZstdNet.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\System.Memory.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\System.Buffers.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\Correios.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\itextsharp.xml
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\bin\Debug\MySql.Data.xml
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE Testes\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v18\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\Versoes SGE\v22\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\Aluno\Downloads\v23\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Aluno\Downloads\v23\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Correios.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\itextsharp.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\MySql.Data.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Google.Protobuf.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ZstdNet.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\System.Memory.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\System.Buffers.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\Correios.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\itextsharp.xml
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\bin\Debug\MySql.Data.xml
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v24\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\MySql.Data.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\onepi\Desktop\v25\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\onepi\Desktop\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\MySql.Data.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\Guilh\OneDrive\Área de Trabalho\v25 (1)\v25\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Correios.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\itextsharp.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Google.Protobuf.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\ZstdNet.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\System.Memory.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\System.Buffers.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\Correios.pdb
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\itextsharp.xml
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\bin\Debug\MySql.Data.xml
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+C:\Users\akith\OneDrive\Área de Trabalho\v26\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Correios.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\itextsharp.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Google.Protobuf.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ZstdNet.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\System.Memory.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\System.Buffers.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\Correios.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\itextsharp.xml
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\bin\Debug\MySql.Data.xml
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v28 - Copia (3)\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.config
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Projeto SGE Testes.exe.manifest
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Projeto SGE Testes.application
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Projeto SGE Testes.exe
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Projeto SGE Testes.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Correios.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\itextsharp.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Google.Protobuf.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ZstdNet.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\System.Memory.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\System.Buffers.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\Correios.pdb
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\itextsharp.xml
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\bin\Debug\MySql.Data.xml
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.AssemblyReference.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.config
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltOrcamento.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadOrcamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.AltServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadMateriais.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadFuncionario.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadObras.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.CadClientes.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsOrcamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPagamentos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsPonto.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsServicos.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.ConsUsuarios.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Menu.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Login.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto_SGE_Testes.Properties.Resources.resources
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.GenerateResource.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CoreCompileInputs.cache
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.exe.manifest
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.application
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.csproj.CopyComplete
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.exe
+D:\Documentos\_Trabalhos\2022\Tec_PDTCC\Cap IV\teste marcos\v29\Projeto SGE\obj\Debug\Projeto SGE Testes.pdb
